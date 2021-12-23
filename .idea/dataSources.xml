@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Symfoware_obacrelay01" uuid="dfeed3db-44a3-471a-bd27-4f73d748e418">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <remarks>AcrocityDB</remarks>
+      <jdbc-driver>com.fujitsu.symfoware.jdbc.RDADriver</jdbc-driver>
+      <jdbc-url>jdbc:symford://obacrelay02:2051/A199;default_isolation=READ_UNCOMMITTED;ctuneparam='CLI_CHARACTER_TRANSLATE(CLIENT);CLI_R_LOCK(YES)'</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
