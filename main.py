@@ -112,5 +112,5 @@ if res == "yes":
     file_check("C:/Users/obi21703/PycharmProjects/差し込み印刷/print_list")
 
 else:
-    res = messagebox.showerror("exit","プログラムを終了します。")
+    res = messagebox.showinfo("exit","プログラムを終了します。")
     print("プログラムを終了します")
